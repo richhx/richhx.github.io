@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Richard Huang
-tagline:          I like to think I'm cool
+tagline:          Home
 url:              http://huangrichard.me
 paginate:         1
 baseurl:          /
@@ -23,4 +23,3 @@ pages_list:
   Archive: '/archive'
   Feed: '/atom.xml'
   GitHub: 'https://github.com/richhx'
-  Resume: '/resume'
