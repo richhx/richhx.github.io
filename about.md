@@ -14,7 +14,7 @@ to check me out on GitHub and beyond.
 ---
 
 <sub>
-  *This site was built using Poole, an open-sourced Jekyll setup
-  developed by Mark Otto. It can be found on GitHub 
-  [here](https://github.com/poole/poole).*
+  *This site was built with the help of Joshua Lande and through Poole, 
+  an open-sourced Jekyll setup developed by Mark Otto. It can be found 
+  on GitHub [here](https://github.com/poole/poole).*
 </sub>
