@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First blog post
+title: #1
 comments: True
 ---
 
