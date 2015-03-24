@@ -4,5 +4,5 @@ title: Contact
 ---
 >Feel free to contact me about anything you desire.
 
-Phone: 408-458-6681 <br>
+Phone: Given on Request <br>
 Email: richhx@gmail.com
