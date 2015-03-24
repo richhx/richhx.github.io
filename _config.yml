@@ -21,5 +21,6 @@ github:
 pages_list:
   About: '/about'
   Archive: '/archive'
+  Contact: '/contact'
   Feed: '/atom.xml'
   GitHub: 'https://github.com/richhx'

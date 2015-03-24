@@ -4,13 +4,23 @@
  <title>Richard Huang</title>
  <link href="http://huangrichard.me/atom.xml" rel="self"/>
  <link href="http://huangrichard.me/"/>
- <updated>2015-03-24T14:17:11-07:00</updated>
+ <updated>2015-03-24T14:31:49-07:00</updated>
  <id>http://huangrichard.me</id>
  <author>
    <name>Mark Otto</name>
    <email>markdotto@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Hello-World</title>
+   <link href="http://huangrichard.me//2015/03/24/hello-world/"/>
+   <updated>2015-03-24T00:00:00-07:00</updated>
+   <id>http://huangrichard.me/2015/03/24/hello-world</id>
+   <content type="html">&lt;p&gt;Dear world, I send you my humblest regards and do so dearly announce my
+greetings: “Hello”&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>First</title>
