@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Richard Huang
+title: First blog post!
 ---
 
-<div class="message">
-  "Hi. I'm Richard, a normal guy who does normal things."
-</div>
-
-## About Me
+This is my first blog post. Nothing of real essence in this post. This is
+just to see if I can post stuff and if the website is working correctly.
