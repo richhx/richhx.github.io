@@ -3,9 +3,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Richard Huang
+tagline:          I like to think I'm cool
+url:              http://huangrichard.me
 paginate:         1
 baseurl:          /
 author:
@@ -15,5 +15,10 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:
+github:           https://github.com/richhx
   repo:           https://github.com/poole/poole
+
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/atom.xml'
