@@ -15,8 +15,8 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:           https://github.com/richhx
-  repo:           https://github.com/poole/poole
+github:           
+  repo:           https://github.com/richhx
 
 pages_list:
   About: '/about'

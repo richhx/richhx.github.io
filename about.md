@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  "Hi. I'm Richard, a normal guy who does normal things."
+  This is the about page where I will put some stuff about myself.
 </p>
 
-## More stuff
+## Stuff
