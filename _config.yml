@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Richard Huang
-tagline:          Home
+tagline:          Just A Normal Guy
 url:              http://huangrichard.me
 paginate:         1
 baseurl:          /
