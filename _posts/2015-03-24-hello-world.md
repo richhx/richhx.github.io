@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello-World
+title: Hello World
 comments: True
 ---
 Dear world, I send you my humblest regards and do so dearly announce my
