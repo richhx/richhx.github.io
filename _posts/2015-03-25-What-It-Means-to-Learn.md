@@ -1,3 +1,9 @@
+---
+layout: page
+title: What It Means to Learn
+comments: True
+---
+
 <p align="center">
   <img src="http://i.imgur.com/KKhHpkn.png" alt="Millenial-Generation"/>
 </p>
