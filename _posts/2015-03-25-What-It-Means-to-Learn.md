@@ -35,7 +35,7 @@ Here are some places that I have found extremely helpful in my search for knowle
   Wikipedia and YouTube are just as good too.
 
 [Coursera](https://www.coursera.org)   
-	These are actual college courses and are not to be taken lightly. They offer so much information and best of all?   
+  These are actual college courses and are not to be taken lightly. They offer so much information and best of all?
   It’s free. It truly makes me question why I’m going to college. College is an experience in and of itself though.  
 
 [Codecademy](http://www.codecademy.com)    
