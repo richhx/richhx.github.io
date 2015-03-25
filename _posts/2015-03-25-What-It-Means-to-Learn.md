@@ -26,7 +26,7 @@ time, but that’s just an excuse for many people. <br>
 
 Trust me, an uneducated nineteen-year-old undergraduate. It’ll be worth it in the end. 
 
----
+***   
 
 Here are some places that I have found extremely helpful in my search for knowledge, specifically programming. <br>  
 
@@ -46,6 +46,6 @@ Here are some places that I have found extremely helpful in my search for knowle
   This is what I’m doing right now, and it’s certainly an exciting experience to see your own app appear on a smartphone.   
   I’m incredibly lucky to have the wealth to own one and I do not intend to let it go to waste. <br>
   
----
+***   
 
 There are many more resources out there. You just have to look. The only thing stopping you is yourself.
