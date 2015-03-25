@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://i.imgur.com/KKhHpkn.png" alt="Millenial-Generation"</img>
+  <img src="http://i.imgur.com/KKhHpkn.png" alt="Millenial-Generation"/>
 </p>
 An entitled generation grows at this very moment. I myself am a part of this generation. <br>   
 
