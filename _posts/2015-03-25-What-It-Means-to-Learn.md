@@ -30,22 +30,22 @@ Trust me, an uneducated nineteen-year-old undergraduate. It’ll be worth it in 
 
 Here are some places that I have found extremely helpful in my search for knowledge, specifically programming. <br>  
 
-[Google](https://www.google.com)   
+* [Google](https://www.google.com)   
   I’m serious. This is the best place to start. Type in what you desire and Google will find it.
   Wikipedia and YouTube are just as good too.
 
-[Coursera](https://www.coursera.org)   
+* [Coursera](https://www.coursera.org)   
   These are actual college courses and are not to be taken lightly. They offer so much information and best of all?
   It’s free. It truly makes me question why I’m going to college. College is an experience in and of itself though.  
 
-[Codecademy](http://www.codecademy.com)    
+* [Codecademy](http://www.codecademy.com)    
   Codecademy teaches the basics of computer programming in a fun and interactive environment. It makes it simple to 
   start learning a new language or area and you can see results immediately.   
 
-[Android Programming](http://developer.android.com/training/index.html)   
+* [Android Programming](http://developer.android.com/training/index.html)   
   This is what I’m doing right now, and it’s certainly an exciting experience to see your own app appear on a smartphone.
   I’m incredibly lucky to have the wealth to own one and I do not intend to let it go to waste. <br>
   
+  There are many more resources out there. You just have to look. The only thing stopping you is yourself.
+  
 ---   
-
-There are many more resources out there. You just have to look. The only thing stopping you is yourself.
