@@ -13,7 +13,7 @@ I have always been told I’m a smart guy. I can easily understand material, get
 but I’m really not all that bright. Almost everything has been spoon-fed to me and the same goes for many others. Schools have
 made it so that it is almost too easy to “learn”: memorize some ideas, vocabulary, or whatever the teacher wants and then just
 barf it all out for a test. It’s formulaic and works to a certain extent, but I wouldn’t say it is truly learning. Learning is
-understanding, and currently an “intellectual hide and seek” occurs where students look for what the teacher wants them to 
+understanding, but currently an “intellectual hide and seek” occurs where students look for what the teacher wants them to 
 say. <br>
 
 You can’t expect everything to be handed to you on a silver platter, and I have recently realized this. My dad nagged me about
