@@ -3,12 +3,16 @@ layout: page
 title: About
 ---
 
+<p align="center>
+ <img src="http://i.imgur.com/nAqMIA2.jpg" alt="Richard Huang" />
+</p>
+
 >Hi. I'm Richard, a normal guy who does normal things.
 
-I graduated from Los Gatos High School in 2014 and am currently studying
+I graduated from Los Gatos High School in 2014 and am currently studying 
 Computer Science at the University of California, San Diego. I will be 
-using this website to discuss my ideas and thoughts and post my
-ongoing projects. Feel free to check me out on Github and beyond.
+using this website to discuss my ideas and thoughts and post my ongoing 
+projects. Feel free to check me out on Github and beyond.
 
 `git checkout richardhuang`
 
