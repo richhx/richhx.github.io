@@ -10,11 +10,11 @@ title: About
 I graduated from Los Gatos High School in 2014 and am currently studying 
 Computer Science at the University of California, San Diego. I am a 
 student, writer, "baller", coder, and am passionate about learning and 
-creating stuff. With my short time on Earth, I want to make a difference 
-in this world for the betterment of others through education and
-technology. But that's in the long run. For now, I'm studying and will 
-be using this website to discuss my ideas and thoughts. So feel free to 
-contact me and check me out on Github and beyond.
+creating stuff. There are many things I want to do, but in the end, I 
+want to make a difference in this world for the betterment of others 
+through education and technology. But that's in the long run. For now, 
+I'm studying and will be using this website to discuss my thoughts and 
+ideas. So feel free to contact me and check me out on Github and beyond.
 
 `git checkout richardhuang`
 
