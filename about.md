@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<p align="center>
+<p align="center">
  <img src="http://i.imgur.com/nAqMIA2.jpg" alt="Richard Huang" />
 </p>
 
