@@ -2,9 +2,8 @@
 layout: page
 title: About
 ---
-<p align="center">
- <img src="http://i.imgur.com/nAqMIA2.jpg" alt="Richard Huang" />
-</p>
+
+![Richard Huang](http://i.imgur.com/nAqMIA2.jpg)
 
 >Hi. I'm Richard, a normal guy who does normal things.
 
