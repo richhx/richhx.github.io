@@ -8,9 +8,13 @@ title: About
 >Hi. I'm Richard, a normal guy who does normal things.
 
 I graduated from Los Gatos High School in 2014 and am currently studying 
-Computer Science at the University of California, San Diego. I will be 
-using this website to discuss my ideas and thoughts and post my ongoing 
-projects. Feel free to check me out on Github and beyond.
+Computer Science at the University of California, San Diego. I am a 
+student, writer, "baller", coder, and am passionate about learning and 
+creating stuff. I want to make a difference in this world with my short 
+time on Earth for the betterment of others through education and
+technology. But that's in the long run. For now, I'm studying and will 
+be using this website to discuss my ideas and thoughts and post my ongoing 
+projects. Feel free to contact me and check me out on Github and beyond.
 
 `git checkout richardhuang`
 
