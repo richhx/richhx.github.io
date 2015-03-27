@@ -14,7 +14,8 @@ creating stuff. There are many things I want to do, but in the end, I
 want to make a difference in this world for the betterment of others 
 through education and technology. But that's in the long run. For now, 
 I'm studying and will be using this website to discuss my thoughts and 
-ideas. So feel free to contact me and check me out on GitHub and beyond.
+ideas. Feel free to contact me and check me out on my website, GitHub 
+and beyond.
 
 `git checkout richardhuang`
 
