@@ -4,7 +4,7 @@
  <title>Richard Huang</title>
  <link href="http://huangrichard.me/atom.xml" rel="self"/>
  <link href="http://huangrichard.me/"/>
- <updated>2015-03-31T21:55:28-07:00</updated>
+ <updated>2015-04-01T22:04:59-07:00</updated>
  <id>http://huangrichard.me</id>
  <author>
    <name>Mark Otto</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>What It Means to Learn</title>
-   <link href="http://huangrichard.me//2015/03/25/What-It-Means-to-Learn/"/>
+   <link href="http://huangrichard.me//What-It-Means-to-Learn"/>
    <updated>2015-03-25T00:00:00-07:00</updated>
-   <id>http://huangrichard.me/2015/03/25/What-It-Means-to-Learn</id>
+   <id>http://huangrichard.me/What-It-Means-to-Learn</id>
    <content type="html">&lt;p align=&quot;center&quot;&gt;
   &lt;img src=&quot;http://i.imgur.com/KKhHpkn.png&quot; alt=&quot;Millenial-Generation&quot; /&gt;
 &lt;/p&gt;
@@ -80,9 +80,9 @@ I’m incredibly lucky to have the wealth to own one and I do not intend to let 
  
  <entry>
    <title>Hello World</title>
-   <link href="http://huangrichard.me//2015/03/24/hello-world/"/>
+   <link href="http://huangrichard.me//Hello-World"/>
    <updated>2015-03-24T00:00:00-07:00</updated>
-   <id>http://huangrichard.me/2015/03/24/hello-world</id>
+   <id>http://huangrichard.me/hello-world</id>
    <content type="html">&lt;p&gt;Dear world, I send you my humblest regards and do so dearly announce my
 greetings: “Hello”&lt;/p&gt;
 </content>
