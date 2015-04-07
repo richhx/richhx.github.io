@@ -2,7 +2,7 @@
 layout: page
 title: What It Means to Learn
 comments: True
-permalink: What-It-Means-to-Learn
+permalink: what-it-means-to-learn
 ---
 
 <p align="center">
