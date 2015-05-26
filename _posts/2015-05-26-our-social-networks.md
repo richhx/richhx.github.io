@@ -13,3 +13,5 @@ and technology today. <br>
 Almost everybody nowaday has a Facebook and many more social media accounts like Twitter, Instagram,
 Yik Yak, etc. There's many benefits to having all of these social media accounts: it keeps people
 engaged, connected, and promotes interactions between people across the world. 
+
+*IN PROGRESS - Probably should have made a branch...*
