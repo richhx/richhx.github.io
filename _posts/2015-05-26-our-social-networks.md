@@ -22,4 +22,4 @@ have before.
 Nevertheless, as it becomes ever more ubiquitous, like the initial backlash to technology, social media has 
 its issues.
 
-*IN PROGRESS - Probably should have made a branch and written an actual draft...*
+*IN PROGRESS - Probably should have made a branch...*
