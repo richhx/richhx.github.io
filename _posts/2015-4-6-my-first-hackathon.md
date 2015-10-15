@@ -6,7 +6,7 @@ permalink: my-first-hackathon
 ---
 
 <p align="center">
-  <img src="http://waynfounders.com/wp-content/uploads/2012/12/Hackathon-logo.jpg"/>
+  <img src="http://www.claruscommerce.com/wp-content/uploads/2013/04/hackathon-graphic.png"/>
 </p>
 
 I just came back from LAHacks and it was an exhausting but worthwhile experience. 
