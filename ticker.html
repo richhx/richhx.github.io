@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<!-- Richard Huang     -->
+<!-- February 18, 2015 -->
+<html>
+<meta charset="utf-8">
+<head>
+  <script type="text/javascript" src="./d3.min.js"></script>
+</head>
+
+<style>
+  svg {
+    font: 10px "Comic Sans MS";
+  }
+  
+  .line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+  }
+
+  .axis path, 
+  .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+  }
+
+  .overlay {
+    fill: none;
+    pointer-events: all;
+  }
+
+  .focus circle {
+    fill: none;
+    stroke: black;
+  }
+</style>
+
+<body>
+</body>
+
+<script>
+  // Number of random data points
+  var n = 40,
+      random = d3.random.normal(0, .4),
+      random2 = d3.random.normal(0, .2),
+      data1 = d3.range(0, n, 1).map(random),
+      data2 = d3.range(n).map(random2),
+      data = [data1];
+      //data =  [data1, data2];
+
+  // Size of SVG
+  var margin = {top: 20, right: 20, bottom: 20, left: 40},
+      width = 960 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
+
+  // x scale
+  var x = d3.scale.linear()
+      .domain([1, n-2])
+      .range([0, width]);
+
+  // y scale
+  var y = d3.scale.linear()
+      .domain([-1, 1])
+      .range([height, 0]);
+
+  // line generator using the scalar
+  var line = d3.svg.line()
+      .interpolate("basis")
+      .x(function(d, i) { return x(i); })
+      .y(function(d, i) { return y(d); });
+
+  // SVG to display the line graph
+  var svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  // Create a clip path in the SVG so can calculate tangents off-screen
+  svg.append("defs").append("clipPath")
+      .attr("id", "clip")
+    .append("rect")
+      .attr("width", width)
+      .attr("height", height);
+
+  // Create x axis
+  svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + y(0) + ")")
+      .call(d3.svg.axis().scale(x).orient("bottom"));
+
+  svg.append("text")
+      .attr("class", "x label")
+      .attr("text-anchor", "end")
+      .attr("x", width)
+      .attr("y", height/2 + margin.top)
+      .text("x (units)");
+
+  // Create y axis
+  svg.append("g")
+      .attr("class", "y axis")
+      .call(d3.svg.axis().scale(y).orient("left"));
+
+  svg.append("text")
+      .attr("class", "y label")
+      .attr("text-anchor", "end")
+      .attr("y", 6)
+      .attr("dy", ".75em")
+      .attr("transform", "rotate(-90)")
+      .text("y (units)");
+  
+  // Create line path
+  var path = svg.append("g")
+      .attr("clip-path", "url(#clip)")
+    .append("path")
+      .datum(data1)
+      .attr("class", "line")
+      .attr("d", line);
+
+  tick();
+
+  function tick() {
+    /*for(d in data) {
+      d.push(random());  // push new data point onto back
+    }*/
+    data1.push(random());
+
+    /*
+    pathGroup.attr("d", line)
+        .attr("transform", null)
+      .transition()
+        .duration(500)
+        .ease("linear")
+        .attr("transform", "translate(" + x(0) + ",0)")
+        .each("end", tick);*/
+
+    // redraw the line and slide it to the left
+    path
+        .attr("d", line)
+        .attr("transform", null)
+        .transition()
+        .duration(400)
+        .ease("linear")
+        .attr("transform", "translate(" + x(0) + ",0)")
+        .each("end", tick);
+
+    /*for(d in data) {     // pop old data point off front 
+      d.shift();
+    }*/
+    data1.shift();
+  }
+
+</script>
+</html>

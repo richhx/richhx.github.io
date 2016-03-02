@@ -22,5 +22,6 @@ pages_list:
   About: '/about'
   Archive: '/archive'
   Contact: '/contact'
+  D3: '/d3'
   Feed: '/atom.xml'
   GitHub: 'https://github.com/richhx'
