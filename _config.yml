@@ -1,17 +1,15 @@
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Richard Huang
 tagline:          Home
-url:              http://huangrichard.me
+url:              http://richhx.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Richard Huang
+  email:          richhx@gmail.com
 
 # Custom vars
 version:          1.0.0
