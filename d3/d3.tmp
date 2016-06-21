@@ -1,6 +1,0 @@
----
-layout: page
-title: D3 Fun
----
-
-{% include ticker.html %}
